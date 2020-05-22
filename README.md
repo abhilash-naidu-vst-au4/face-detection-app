@@ -1,6 +1,7 @@
-# face-detection-app..
+# face-detection-app..   facedetecion-app.herokuapp.com/
 
-                       Steps to Run..
+                       Steps to Run.. From Git.
+                      
                        
 
 1. Git Clone the Repository/ File.
