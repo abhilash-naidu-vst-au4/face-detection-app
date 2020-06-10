@@ -1,5 +1,7 @@
-# face-detection-app..   
-Heroku Link: facedetecion-app.herokuapp.com/
+                                                  Face-Detection-App.. 
+                                                  
+                                                  
+Open-App.  : facedetecion-app.herokuapp.com/
 
                        Steps to Run.. From Git.
                       
